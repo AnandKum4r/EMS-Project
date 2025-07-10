@@ -1,6 +1,6 @@
 # Employee Management System in React + Vite
 
-🔗 <a href="https://ems-project-chi.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+🔗 **Live Demo:** https://ems-project-chi.vercel.app/
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blueviolet?logo=tailwindcss)
