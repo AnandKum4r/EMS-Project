@@ -48,6 +48,8 @@ The Employee Management System is a web application built using React + Vite and
 ## Technologies Used
 - ⚛️ React
 - 🧭 React Router
+- 🔒 SweetAlert2 (for alerts and confirmation dialogs)
+- 🌐 LocalStorage (for storing users details)
 - 🧠 React Hooks (useState, useEffect)
 - 💨 TailwindCSS
 - 🚀 Vite
