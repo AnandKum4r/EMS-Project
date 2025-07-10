@@ -2,14 +2,7 @@
 
 🔗 **Live Demo:** https://ems-project-chi.vercel.app/
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-
-## Introduction
+##  📌 Introduction
 The Employee Management System is a web application built using React + Vite and Tailwind CSS for efficient management of employee data. This system provides a user-friendly interface for adding, updating, and deleting employee information.
 
 ## Features
