@@ -1,12 +1,47 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Employee Management System in React + Vite
 
-Currently, two official plugins are available:
+🔗 Link
+https://github.com/AnandKum4r/EMS-Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
 
-## Expanding the ESLint configuration
+## Introduction
+The Employee Management System is a web application built using React for efficient management of employee data. This system provides a user-friendly interface for adding, updating, and deleting employee information.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+- **Add Employee:** Add new employees with details like name, position, and contact information.
+- **View Employee List:** Display a list of all employees with their details.
+- **Update Employee:** Edit and update the information of existing employees.
+- **Delete Employee:** Remove employees from the system.
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/AnandKum4r/EMS-Project.git
+    cd EMS-Project
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+1. Start the application:
+    ```bash
+    npm run dev
+    ```
+2. Open your browser and go to [http://localhost:3000](http://localhost:3000)
+
+## Technologies Used
+- React
+- React Router
+- State management (e.g., useState, useReducer)
+- TailwindCSS
+
