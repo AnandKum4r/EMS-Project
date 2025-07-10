@@ -1,8 +1,10 @@
-
 # Employee Management System in React + Vite
 
-🔗 Live Demo
-https://ems-project-chi.vercel.app/
+🔗 <a href="https://ems-project-chi.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blueviolet?logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-Fast-yellow?logo=vite)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,13 +14,15 @@ https://ems-project-chi.vercel.app/
 - [Technologies Used](#technologies-used)
 
 ## Introduction
-The Employee Management System is a web application built using React for efficient management of employee data. This system provides a user-friendly interface for adding, updating, and deleting employee information.
+The Employee Management System is a web application built using React + Vite and Tailwind CSS for efficient management of employee data. This system provides a user-friendly interface for adding, updating, and deleting employee information.
 
 ## Features
-- **Add Employee:** Add new employees with details like name, position, and contact information.
-- **View Employee List:** Display a list of all employees with their details.
-- **Update Employee:** Edit and update the information of existing employees.
-- **Delete Employee:** Remove employees from the system.
+- ➕ **Add Employee:** Create employee records with name, email, salary, and joining date.
+- 📋 **View Employees:**  Display a list of all employees with their details.
+- ✏️ **Update Employee:** Edit and update the information of existing employees.
+- 🗑️ **Delete Employee:** Remove employee records with confirmation alerts.
+- 🌗 **Dark Mode Support:** Adapts to system theme for better UX.
+- 🔄 **Reset Feature:** Reset employee data to default.
 
 ## Installation
 1. Clone the repository:
@@ -33,15 +37,17 @@ The Employee Management System is a web application built using React for effici
     ```
 
 ## Usage
-1. Start the application:
+1. Start the development server:
     ```bash
     npm run dev
     ```
-2. Open your browser and go to [http://localhost:3000](http://localhost:3000)
+
+2. Open in browser:
+    [http://localhost:3000](http://localhost:3000)
 
 ## Technologies Used
-- React
-- React Router
-- State management (e.g., useState, useReducer)
-- TailwindCSS
-
+- ⚛️ React
+- 🧭 React Router
+- 🧠 React Hooks (useState, useEffect)
+- 💨 TailwindCSS
+- 🚀 Vite
