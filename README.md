@@ -1,4 +1,4 @@
-# Employee Management System in React + Vite
+# EMS CURD Operation
 
 🔗 **Live Demo:** https://ems-project-chi.vercel.app/
 
