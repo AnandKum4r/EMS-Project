@@ -13,6 +13,14 @@ The Employee Management System is a web application built using React + Vite and
 - 🌗 **Dark Mode Support:** Adapts to system theme for better UX.
 - 🔄 **Reset Feature:** Reset employee data to default.
 
+## Technologies Used
+- ⚛️ React
+- 🧭 React Router
+- 🔒 SweetAlert2 (for alerts and confirmation dialogs)
+- 🌐 LocalStorage (for storing users details)
+- 💨 TailwindCSS
+- 🚀 Vite
+
 ## Installation
 1. Clone the repository:
     ```bash
@@ -33,11 +41,3 @@ The Employee Management System is a web application built using React + Vite and
 
 2. Open in browser:
     [http://localhost:3000](http://localhost:3000)
-
-## Technologies Used
-- ⚛️ React
-- 🧭 React Router
-- 🔒 SweetAlert2 (for alerts and confirmation dialogs)
-- 🌐 LocalStorage (for storing users details)
-- 💨 TailwindCSS
-- 🚀 Vite
