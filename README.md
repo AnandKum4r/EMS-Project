@@ -1,4 +1,4 @@
-# EMS CURD Operation
+# EMS CRUD Operation
 
 🔗 **Live Demo:** https://ems-project-chi.vercel.app/
 
